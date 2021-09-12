@@ -13,6 +13,9 @@
         <module>studyspring</module>
         <module>spring-v1</module>
         <module>designmode</module>
+        <module>spring-v2</module>
+        <module>spring-v3</module>
+        <module>spring-v4</module>
     </modules>
 
     <properties>
